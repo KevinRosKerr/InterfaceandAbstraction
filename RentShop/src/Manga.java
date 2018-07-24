@@ -16,5 +16,10 @@ public class Manga extends Books {
 	public void returnobject() {
 		// TODO Auto-generated method stub
 	}
+	
+	
+	protected String getIllustrator() {
+		return illustrator;
+	}
 
 }
