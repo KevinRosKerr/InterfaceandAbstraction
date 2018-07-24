@@ -1,3 +1,9 @@
 /bin/
+<<<<<<< HEAD
 /.classpath
 /.project
+=======
+.classpath
+.project
+/org.eclipse.jdt.core.prefs
+>>>>>>> branch 'master' of https://github.com/KevinRosKerr/InterfaceandAbstraction.git
